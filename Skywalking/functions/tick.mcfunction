@@ -1,0 +1,1 @@
+execute as @a run fill ~ ~-1 ~ ~ ~-1 ~ stone_brick_stairs
